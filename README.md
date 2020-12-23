@@ -4,7 +4,8 @@ My main focus is on studying physics of MULTIPOLES in particular.
 Available languages...
 1. C++
 2. Python
-3. JavaScript
+3. Julia
+4. JavaScript
 
 [![](https://raw.githubusercontent.com/ryoshindo/ryoshindo/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ryoshindo/ryoshindo/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
