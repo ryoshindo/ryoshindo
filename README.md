@@ -1,9 +1,20 @@
-My major is Condensed Matter Theory.
-My main focus is on studying physics of MULTIPOLES in particular.
+The skills I have...
+* AWS
+   * Lambda
+   * API Gateway
+   * S3
+   * CloudFormation
+   * ECS
+   * Code Pipeline / Deploy
+   * EC2
+   * CloudWatch
+   * CloudTrail
+* Docker
+* Terraform
 
 Available languages...
-1. C++
-2. Python
+1. Python
+2. C++
 3. Julia
 4. JavaScript
 
@@ -12,18 +23,3 @@ Available languages...
 [![](https://raw.githubusercontent.com/ryoshindo/ryoshindo/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![](https://komarev.com/ghpvc/?username=ryoshindo&color=green)
-
-<!--
-**ryoshindo/ryoshindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
