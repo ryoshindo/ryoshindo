@@ -9,6 +9,7 @@ The skills I have...
    * EC2
    * CloudWatch
    * CloudTrail
+* Sumo Logic
 * Docker
 * Terraform
 
