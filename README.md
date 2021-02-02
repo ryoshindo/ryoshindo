@@ -4,13 +4,12 @@ The skills I have...
    * API Gateway
    * S3
    * CloudFormation
-   * ECS
-   * Code Pipeline / Deploy
    * EC2
    * CloudWatch
    * CloudTrail
 * Sumo Logic
 * Docker
+* GitHub Actions
 * Terraform
 
 Available languages...
