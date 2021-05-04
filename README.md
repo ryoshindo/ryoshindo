@@ -1,18 +1,20 @@
 The skills I have...
-* AWS
-   * Lambda
-   * API Gateway
-   * S3
-   * CloudFormation
-   * EC2
-   * CloudWatch
-   * CloudTrail
-* Sumo Logic
-* Docker
-* GitHub Actions
-* Terraform
+
+- AWS
+  - Lambda
+  - API Gateway
+  - S3
+  - CloudFormation
+  - EC2
+  - CloudWatch
+  - CloudTrail
+- Sumo Logic
+- Docker
+- GitHub Actions
+- Terraform
 
 Available languages...
+
 1. Python
 2. C++
 3. Julia
